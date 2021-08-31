@@ -18,5 +18,5 @@ Welcom to watch my *DEMO VIDEO*!
   * *image processing*
 * [Weather Master](https://github.com/curqder/MyProjects/blob/main/PythonProject/weather_master/weather_master.py)
   * *python semantics & syntax*
-* [Hungman game](https://github.com/curqder/MyProjects/blob/main/PythonProject/hangman_game/hangman.py)
+* [Hungman Game](https://github.com/curqder/MyProjects/blob/main/PythonProject/hangman_game/hangman.py)
   * *python semantics & syntax*
