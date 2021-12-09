@@ -6,7 +6,7 @@ Welcom to watch my [*DEMO VIDEO*](https://drive.google.com/drive/folders/1vDOEzM
 
 ## Project Source Codes:
 
-* [Name Popularity Rearching System](https://github.com/curqder/MyProjects/blob/main/PythonProject/name_popularity_searching_system/babygraphics.py)
+* [Name Popularity Researching System](https://github.com/curqder/MyProjects/blob/main/PythonProject/name_popularity_searching_system/babygraphics.py)
   * *data structure*
 * [Boggle Game Solver](https://github.com/curqder/MyProjects/blob/main/PythonProject/boggle_game_solver/boggle.py)
   * *recursive functions*
