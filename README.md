@@ -6,6 +6,8 @@ Welcom to watch my [*DEMO VIDEO*](https://drive.google.com/drive/folders/1vDOEzM
 
 ## Project Source Codes:
 
+* [Movie_Review_Prediction_System](https://github.com/curqder/MyProjects/tree/main/PythonProject/movie_review_prediction_system)
+  * *Machine Learning*
 * [Name Popularity Researching System](https://github.com/curqder/MyProjects/blob/main/PythonProject/name_popularity_searching_system/babygraphics.py)
   * *data structure*
 * [Boggle Game Solver](https://github.com/curqder/MyProjects/blob/main/PythonProject/boggle_game_solver/boggle.py)
