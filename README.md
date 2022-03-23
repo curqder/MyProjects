@@ -6,9 +6,9 @@ Welcom to watch my [*DEMO VIDEO*](https://drive.google.com/drive/folders/1vDOEzM
 
 ## Project Source Codes:
 
-* [Boston Housing Price System](https://github.com/curqder/MyProjects/tree/main/PythonProject/housing_price_in_Boston)
+* [Boston Housing Price Prediction System](https://github.com/curqder/MyProjects/tree/main/PythonProject/housing_price_in_Boston)
   * *Machine Learning*
-* [Movie_Review_Prediction_System](https://github.com/curqder/MyProjects/tree/main/PythonProject/movie_review_prediction_system)
+* [Movie Review Prediction System](https://github.com/curqder/MyProjects/tree/main/PythonProject/movie_review_prediction_system)
   * *Machine Learning*
 * [Name Popularity Researching System](https://github.com/curqder/MyProjects/blob/main/PythonProject/name_popularity_searching_system/babygraphics.py)
   * *data structure*
